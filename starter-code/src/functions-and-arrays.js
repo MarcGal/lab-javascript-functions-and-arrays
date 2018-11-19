@@ -35,6 +35,7 @@ function findLongestWord(array){
   return array[i];
 }
 
+
 // console.log(findLongestWord(words));
 
 
